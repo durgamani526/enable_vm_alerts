@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "actionGroupName": {
+      "value": "avinash"
+    },
+    "actionGroupShortName": {
+      "value": "serviceAG"
+    },
+    "emailAddress": {
+      "value": "durgamani526@gmail.com"
+    },
+    "activityLogAlertName": {
+      "value": "serviceHealthAlert"
+    }
+  }
+}
